@@ -1,7 +1,7 @@
 Name:                pacman-memcache
 Version:             0.1.0.0
 Synopsis:            Read whole Pacman database which pushes it into the memory cache
-Description:         Pacman is Linux package manager. It is used by Arch Linux. 
+Description:         Pacman is Linux package manager. It is used by Arch Linux.
                      It's database is rather slow because it contains thousands of little files,
                      which takes an enormous time to process.
                      
@@ -23,6 +23,7 @@ Description:         Pacman is Linux package manager. It is used by Arch Linux.
 License:             BSD3
 License-file:        LICENSE
 Author:              Krzysztof Skrzętnicki
+Maintainer:          Krzysztof Skrzętnicki
 Category:            System
 Build-type:          Simple
 Cabal-version:       >=1.2
